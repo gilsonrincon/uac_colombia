@@ -1,6 +1,6 @@
 {
   "name": "uac_colombia",
-  "app_id": "",
+  "app_id": "24403d58",
   "type": "ionic-angular",
   "integrations": {
     "cordova": {}
